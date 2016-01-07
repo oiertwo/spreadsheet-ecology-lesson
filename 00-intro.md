@@ -60,11 +60,11 @@ Head First Excel by O'Reilly
 
 ### Spreadsheet programs
 
-- LibreOffice - used in these lessons because it's a free, open source
+- LibreOffice Calc - used in these lessons because it's a free, open source
   spreadsheet program
 - Microsoft Excel
 - Gnumeric
-- OpenOffice.org
+- OpenOffice.org Calc
 
 Commands may differ a bit between programs, but general ideas
 for thinking about spreadsheets is the same.
@@ -111,24 +111,24 @@ be read as data**, and often involves **special formatting**
 (merging cells, creating borders, making it pretty). We advise you to
 do this sort of operation within your document editing software.
 
-The latter two applications, **generating statistics and figures**, should 
-be used with caution: because of the graphical, drag and drop nature of 
-spreadsheet programs, it can be very difficult, if not impossible, to 
-replicate your steps (much less retrace anyone else's), particularly if your 
-stats or figures require you to do more complex calculations. Furthermore, 
-in doing calculations in a spreadsheet, it’s easy to accidentally apply a 
-slightly different formula to multiple adjacent cells. When using a 
-command-line based statistics program like R or SAS, it’s practically 
-impossible to accidentally apply a calculation to one observation in your 
-dataset but not another unless you’re doing it on purpose. 
+The latter two applications, **generating statistics and figures**, should
+be used with caution: because of the graphical, drag and drop nature of
+spreadsheet programs, it can be very difficult, if not impossible, to
+replicate your steps (much less retrace anyone else's), particularly if your
+stats or figures require you to do more complex calculations. Furthermore,
+in doing calculations in a spreadsheet, it’s easy to accidentally apply a
+slightly different formula to multiple adjacent cells. When using a
+command-line based statistics program like R or SAS, it’s practically
+impossible to accidentally apply a calculation to one observation in your
+dataset but not another unless you’re doing it on purpose.
 
 ### Using for Spreadsheets for Data Entry and Cleaning
 
-**HOWEVER**, there are circumstances where you might want to use a spreadsheet 
-program to produce “quick and dirty” calculations or figures, and some of 
-these features can be used in **data cleaning**, prior to importation into a 
-statistical analysis program. We will show you how to use some features of 
-spreadsheet programs to check your data quality along the way and produce 
+**HOWEVER**, there are circumstances where you might want to use a spreadsheet
+program to produce “quick and dirty” calculations or figures, and some of
+these features can be used in **data cleaning**, prior to importation into a
+statistical analysis program. We will show you how to use some features of
+spreadsheet programs to check your data quality along the way and produce
 preliminary summary statistics.
 
 In this lesson, we will assume that you are most likely using Excel as
